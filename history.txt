@@ -1,0 +1,57 @@
+    1  ls -l
+    2  shutdown
+    3  shotdown -r
+    4  shutdown - r
+    5  shutdown -r
+    6  ls-l
+    7  ls -l
+    8  clear
+    9  ls
+   10  ls -la
+   11  cd Desktop/
+   12  ls -la
+   13  cd .
+   14  cd ..
+   15  sudo rm -rf /
+   16  sudo apt-get update
+   17  sudo apt-get install synaptic
+   18  sudo synaptic
+   19  history
+   20  ps -ef | grep -i packagekit
+   21  mkdir git
+   22  ls
+   23  cd git/
+   24  cd..
+   25  cd ../
+   26  rm -r git/
+   27  cd /
+   28  cd home
+   29  ls
+   30  cd christopher
+   31  cd git
+   32  cd `
+   33  cd~
+   34  cd /var/log/
+   35  cd  ../
+   36  cd
+   37  sudo synaptic
+   38  mysql -u root -p
+   39  sudo ap-get install php
+   40  sudo apt-get install php
+   41  sudo apt-get install git
+   42  mkdir it635
+   43  ls
+   44  cd it635
+   45  ls
+   46  git init
+   47  git status
+   48  mysqldump -u root -p > backup.sql
+   49  mysqldump -u root -p Classes > backup.sql
+   50  cat backup.sql
+   51  git add backup.sql
+   52  git status
+   53  git rm --cached backup.sql
+   54  git status
+   55  git add backup.sql
+   56  git status
+   57  history > history.txt
